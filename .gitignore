@@ -1,0 +1,6 @@
+# 本目录里由程序自动生成/下载的文件，不入库
+dsh-web.log
+dsh-control-config.json
+dsh-icon.ico
+__pycache__/
+*.pyc
